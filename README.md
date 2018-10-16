@@ -1,1 +1,3 @@
 # Time-Work
+
+This App should help me to calculate my actual tie at work...
